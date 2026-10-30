@@ -24,8 +24,11 @@ An autonomous, multi-language, web-based algorithmic scalping and trading bot bu
 * **Backend:** Python 3.10+, FastAPI, Uvicorn
 * **Frontend:** TailwindCSS, Vanilla JavaScript, FontAwesome, TradingView Widgets
 * **API Integration:** HMAC-SHA256 Request Signing for Bybit V5 REST API
-
+Do not make panic on live trading.
+Bot calculate estimated time for success.
+This is Scalp Bot with built-in strategies.
 ---
+<img width="1899" height="909" alt="Screenshot 2026-10-31 021330" src="https://github.com/user-attachments/assets/fba69e5d-452a-44aa-b0bc-722678fc6684" />
 
 ## 📦 Installation & Setup Guide
 
